@@ -1,0 +1,2 @@
+# DataBindingAssignment
+ pure databinding
